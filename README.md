@@ -26,7 +26,7 @@ The cipher can, be adapted to an alphabet with any number of letters. All arithm
 
 
 ## PROGRAM:
-PROGRAM:
+
 ```
 #include <stdio.h>
 
